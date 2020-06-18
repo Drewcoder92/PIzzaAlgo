@@ -1,0 +1,11 @@
+Decide what pizza place we will use
+Decide what type of pizza and maybe how many
+Call pizzeria
+Order pizza
+Greet pizza person
+Pay for pizza
+Tip
+Enjoy pizza
+
+
+
